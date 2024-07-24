@@ -8,8 +8,6 @@ Welcome to the Power BI task repository. This repository contains the dataset an
 2. [Task Overview](#task-overview)
 3. [Data Files](#data-files)
 4. [Getting Started](#getting-started)
-5. [Submission Guidelines](#submission-guidelines)
-6. [Additional Resources](#additional-resources)
 
 ## Introduction
 
