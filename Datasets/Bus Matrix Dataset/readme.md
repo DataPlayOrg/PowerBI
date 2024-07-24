@@ -36,7 +36,7 @@ The objective of this task is to create a Business (Bus) Matrix Architecture fro
 
 ## Data Files
 
-The dataset provided for this task can be found in the (./PowerBI/Datasets/Bus Matrix Dataset) folder of this repository. Please download and review the dataset before starting your analysis.
+The dataset provided for this task can be found in the PowerBI/Datasets/Bus Matrix Dataset folder of this repository. Please download and review the dataset before starting your analysis.
 
 - PowerBI/Datasets/Bus Matrix Dataset/ Most Streamed Spotify Songs 2024.csv
 
